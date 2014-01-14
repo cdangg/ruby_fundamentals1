@@ -1,9 +1,3 @@
-# def multiples
-# 	(1..100).each do |x|
-# 		x%3 == 0 || x%5 ==0
-# 	end
-# end
-
 number = (1..100)
 
 number.each do |x|
